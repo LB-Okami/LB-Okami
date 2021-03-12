@@ -1,7 +1,7 @@
 ### Hi mate, my name Is Lucas Buzo and I'm a Web developer!<img align="right"  width="370px" src="https://github.com/LB-Okami/LB-Okami/blob/main/sasha.gif">
 
 - 🎓:<b> Formado em desenvolvimento Web</b>
-- 💻: <b>Bootcamp Generation Brasil - Desenvolvedora Web Full Stack</b>
+- 💻: <b>Bootcamp Generation Brasil - Desenvolvedor Web Full Stack</b>
 - <a href="https://www.linkedin.com/in/lucas-buzo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 
