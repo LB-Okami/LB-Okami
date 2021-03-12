@@ -20,5 +20,5 @@
 
 
 <div align="left">
- <img align="left"  width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LB-Okami&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=vision-friendly-dark" /><img width="450px" src="https://github-readme-stats.vercel.app/api?username=LB-Okami&show_icons=true&theme=vision-friendly-dark" /></div>
+ <img align="left"  width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natachadpduarte&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=merko" /><img width="450px" src="https://github-readme-stats.vercel.app/api?username=LB-Okami&show_icons=true&theme=vision-friendly-dark" /></div>
 
