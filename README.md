@@ -2,8 +2,8 @@
 
 
 # Hi there, I'm Lucas! <img src="https://github.com/LB-Okami/LB-Okami/blob/main/wolf.svg" width="40px">
-- 💻 Formado em desenvolvimento Web
-- 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack 
+- 💻 Web development graduated
+- 🚀 Bootcamp Generation Brasil - Full stack developer 
 - <a href="https://www.linkedin.com/in/lucas-buzo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
  # Technologies 💻
